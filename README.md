@@ -1,6 +1,6 @@
 # Aplikasi Grafis 2D
 
-Aplikasi menggambar 2D interaktif yang dibangun dengan Python dan Tkinter. Aplikasi ini memungkinkan pengguna untuk membuat berbagai bentuk geometris dengan fitur transformasi yang lengkap.
+Aplikasi menggambar 2D interaktif yang dibangun dengan Python. Aplikasi ini memungkinkan pengguna untuk membuat berbagai bentuk geometris dengan fitur transformasi yang lengkap.
 
 ## 📋 Daftar Isi
 
